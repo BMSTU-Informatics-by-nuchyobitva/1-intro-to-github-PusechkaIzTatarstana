@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_xU4Djtu)
 # 25.02.2025
-Ссылка на репозиторий: 
+Ссылка на репозиторий: https://github.com/PusechkaIzTatarstana/My_little_corner/blob/main/README.md
 
 **Чтобы сдать задание**, завершите редактирование репозитория, наверху перейдите во вкладку "Issues" и создайте вопрос, нажав "New Issue".
 Название Issue должно быть следующего формата: "<ваша фамилия> выполнил", например: "Иванов выполнил". А в теле Issue можете написать, что хотите, что думаете о задании или что не получилось или понравилось.
